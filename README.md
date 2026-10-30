@@ -35,10 +35,10 @@ Built as a personal coding experiment with a cybersecurity-inspired visual ident
 2. Download or clone this repository.
 3. Install the dependencies:
 
-```bash
-pip install -r requirements.txt
-```
+   pip install -r requirements.txt
 
 4. Run the generator:
 
-```bash
+   python ascii_portrait.py your_photo.jpg
+
+5. Your ASCII portrait will be saved as `portrait.txt`.
