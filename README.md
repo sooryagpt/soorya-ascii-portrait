@@ -1,85 +1,44 @@
-# Soorya's ASCII Portrait
+# Soorya | ASCII Portrait
+
+### Turning Pixels Into Code.
+
+A personal creative coding project that transforms photographs into ASCII art using Python and image processing.
 
 <p align="center">
-  <img src="soorya_ascii_portrait_preview.png" width="500" alt="Soorya ASCII Portrait">
+  <img src="soorya_ascii_portrait_preview.png" width="500" alt="Soorya's ASCII Portrait">
 </p>
 
-### About This Project
+## About This Project
 
-A creative coding experiment that transforms a personal photograph into ASCII art.
+This project explores the combination of programming, digital art and image processing by converting a photograph into a text-based ASCII portrait.
 
-**Built around:**
-- Python
-- Image processing
-- ASCII character mapping
-- Digital art
+Built as a personal coding experiment with a cybersecurity-inspired visual identity.
 
-### Author
-**Soorya Siva Kumar**
+## Project Files
 
-Cybersecurity | Google Cloud | Security Operations | Threat Intelligence
+| File | Description |
+|---|---|
+| `soorya_ascii_portrait_preview.png` | Portrait preview |
+| `soorya_ascii_portrait.txt` | ASCII artwork |
+| `ascii_portrait.py` | Python image converter |
+| `requirements.txt` | Project dependencies |
 
-[LinkedIn](https://www.linkedin.com/in/sooryasiva/)
+## Downloads
 
----
+- [Download Portrait (PNG)](soorya_ascii_portrait_preview.png)
+- [View ASCII Artwork (TXT)](soorya_ascii_portrait.txt)
+- [Explore Python Source Code](ascii_portrait.py)
 
-*Turning pixels into code.*
-# PROJECT CONTINUATION — SOORYA'S GITHUB CYBERSECURITY PROFILE
-
-You are continuing an existing project with me. Act as my technical assistant.
-
-## About Me
-- Name: Soorya Siva Kumar
-- Location: Kuala Lumpur, Malaysia
-- Current role: Google Cloud Renewals Security Specialist (via Teleperformance)
-- Professional interests: Cybersecurity, Google Cloud Security, Google SecOps, Mandiant, Threat Intelligence and Security Operations.
-- Background: IT Support, Technical Account Management and Cybersecurity.
-- Certifications: Cisco Cybersecurity and Ethical Hacking.
-- Education: SKM Level 2 & 3, DKM Level 4.
-- LinkedIn: https://linkedin.com/in/sooryasiva/
-
-## My GitHub
-- Username: sooryagpt
-- Profile README repository: sooryagpt
-- New project repository: soorya-ascii-portrait
-- The old testing repository was made private.
-- Profile bio, pronouns and LinkedIn URL have been updated.
-- GitHub avatar: faceless pixel-art cybersecurity aesthetic.
-
-## Our Main Project
-
-We are building a personal ASCII-coded portrait using my actual photograph.
-
-The goal is to create a professional, visually impressive GitHub project that I can showcase on LinkedIn.
-
-### Completed work
-1. Created public repository: `soorya-ascii-portrait`.
-2. Uploaded `soorya_ascii_portrait_preview.png`.
-3. Uploaded `soorya_ascii_portrait.txt`.
-4. Created and uploaded `ascii_portrait.py`.
-5. Created `requirements.txt` containing:
-
-Pillow>=10.0.0
-## How to Run
+## How to Generate Your Own
 
 1. Install Python 3.
-2. Install dependencies:
+2. Download or clone this repository.
+3. Install the dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Run the script:
+4. Run the generator:
 
 ```bash
-python ascii_portrait.py your_photo.jpg
-```
-
-Your ASCII portrait will be saved as `portrait.txt`.
-
-## Future Improvements
-
-- Colored terminal output
-- Pixel-art rendering
-- Adjustable character density
-- Image export support
