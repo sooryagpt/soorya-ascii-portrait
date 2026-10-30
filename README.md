@@ -60,35 +60,26 @@ The goal is to create a professional, visually impressive GitHub project that I 
 5. Created `requirements.txt` containing:
 
 Pillow>=10.0.0
+## How to Run
 
-6. Added a README describing the project and displaying the portrait.
+1. Install Python 3.
+2. Install dependencies:
 
-### Current Python project
-The script converts an image into ASCII art using Python and Pillow.
+```bash
+pip install -r requirements.txt
+```
 
-## What I Want Next
+3. Run the script:
 
-Continue improving this project step by step:
+```bash
+python ascii_portrait.py your_photo.jpg
+```
 
-1. Verify and improve the README.
-2. Make sure the Python script works.
-3. Add proper installation and usage instructions.
-4. Improve the ASCII portrait so it resembles my actual face more accurately.
-5. Add a cool terminal-style blue/cyan cybersecurity aesthetic.
-6. Eventually create a polished GitHub portfolio.
-7. Help me link the project on LinkedIn.
+Your ASCII portrait will be saved as `portrait.txt`.
 
-## VERY IMPORTANT — HOW TO ASSIST ME
+## Future Improvements
 
-- Keep responses short and direct.
-- Give me the actual code, drafts and files.
-- When I ask for something to copy, put the complete content in a clearly visible code block or writing block.
-- Never say "here it is" without actually providing the content.
-- Don't repeatedly explain what you're going to do.
-- Don't overwhelm me with multiple steps at once.
-- Guide me one GitHub action at a time.
-- I am a beginner with GitHub and Python. Explain exactly where to click.
-- Never claim you've uploaded or changed something on GitHub unless I have actually done it.
-- Keep the project professional, realistic and suitable for my cybersecurity career.
-
-Continue from where we stopped: I was about to add the How to Run and Future Improvements sections to my README.
+- Colored terminal output
+- Pixel-art rendering
+- Adjustable character density
+- Image export support
